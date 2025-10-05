@@ -189,9 +189,9 @@ main .parrafo-home {
 
 .form {
   background-color:  rgb(15, 52, 15);
-  padding: 5rem;
+  padding: 2rem;
   border-radius: 1rem;
-  width: 30%;
+  width: 70%;
   margin: auto;
 
   display: flex;
